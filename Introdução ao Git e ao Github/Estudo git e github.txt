@@ -1,0 +1,17 @@
+
+
+   O Git e o GitHub são ferramentas essenciais para o desenvolvimento de software colaborativo.
+Git:
+
+Git é um sistema de controle de versão distribuído.
+Ele permite que você rastreie as alterações em seus arquivos de código ao longo do tempo.
+Você pode criar instantâneos (commits) das mudanças feitas em seus projetos.
+Isso facilita o trabalho em equipe, rastreia o histórico das alterações e ajuda na solução de conflitos.
+GitHub:
+
+GitHub é uma plataforma de hospedagem de código baseada na web que usa o Git.
+Ela permite que você armazene seus repositórios Git online.
+Você pode compartilhar seu código com outros colaboradores, facilitando o trabalho em equipe.
+O GitHub fornece recursos de colaboração, como problemas (issues), solicitações de pull (pull requests) e discussões.
+É amplamente utilizado por desenvolvedores para colaboração, contribuição em projetos de código aberto e armazenamento seguro de código-fonte.
+Em resumo, o Git é a ferramenta que permite o controle de versão do seu código, enquanto o GitHub é uma plataforma online que facilita o compartilhamento, colaboração e gerenciamento de projetos baseados no Git. Eles desempenham um papel crucial no desenvolvimento de software moderno, tornando o trabalho em equipe mais eficiente e permitindo o acompanhamento de alterações ao longo do tempo.
